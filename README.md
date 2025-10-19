@@ -20,4 +20,4 @@ __*<p>Replaces Ivalice Chronicles sprites with IOS/Android sprites.
 # Installation
 - Install [Reloaded II Mod Manager](https://github.com/Reloaded-Project/Reloaded-II/releases)
 - Install [FFT: The Ivalice Chronicles Mod Loader](https://www.nexusmods.com/finalfantasytacticstheivalicechronicles/mods/4?tab=files) to Reloaded II
-- Install [FFT: The Ivalice Chronicles Mobile Sprites](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-Ivalice-Chronicles-Mobile-Sprites/releases) to Reloaded II
+- Install [Mobile Sprites](https://github.com/Zodi-ark/Mobile-Sprites/releases) to Reloaded II
